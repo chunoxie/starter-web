@@ -18,3 +18,4 @@ Another text
 ## Even more
 
 ## Copyright section
+All rights reserved
