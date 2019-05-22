@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## And Another
 
 ## Even more
+
+## Copyright section
